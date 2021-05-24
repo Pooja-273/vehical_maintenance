@@ -8,7 +8,6 @@ import 'package:rating_dialog/rating_dialog.dart';
 import 'package:vehical_maintenance/Account.dart';
 import 'package:vehical_maintenance/All%20orders.dart';
 import 'package:vehical_maintenance/Underprogress-1.dart';
-import 'package:vehical_maintenance/extra.dart';
 
 
 class Allorders extends StatefulWidget {
